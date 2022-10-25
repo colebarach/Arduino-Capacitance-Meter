@@ -1,4 +1,4 @@
-# Arduino-Capacitance-Meter
+# Arduino Capacitance Meter
 A capacitance meter designed for the arduino microcontroller
 ## Usage
 Connect a capacitor in series with a resistor to form a RC circuit. The input to this circuit will be the charge and discharge pins, and the voltage will be monitored via the comparator pin. The capacitance will be calculated automatically and averaged over time.
